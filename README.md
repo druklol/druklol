@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjExb2ZodXVodDE0MDJqNTIyZXV4cGVxNzA4bzNrbnpjZ2FwOHFzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvsjHZc6P3oozpp9I4/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="t.me/druklol">
